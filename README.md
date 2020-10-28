@@ -1,5 +1,5 @@
-# Alicia's Portfolio
+# Talks Portfolio
 
-Welcome to my porfolio.
+Welcome to my talks porfolio.
 
 It's based on the jekyll theme [minima](https://jekyll.github.io/minima/)

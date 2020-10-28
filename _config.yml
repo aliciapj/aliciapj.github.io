@@ -1,15 +1,13 @@
-title: Porfolio
+title: Charlas
 author:
   name: by Alicia Pérez
   # email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
   
-url: https://aliciapj.github.io
+url: https://aliciapj.github.io/talks
 baseurl: ''
 
 show_excerpts: false # set to true to show excerpts on the homepage
-google_analytics: UA-180962091-1
-
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -28,4 +26,3 @@ theme: minima
 
 plugins:
  - jekyll-feed
- - jekyll-seo-tag
