@@ -1,10 +1,9 @@
-title: Charlas
+title: Home
 author:
   name: by Alicia Pérez
   # email: your-email@domain.com
-description: > # this means to ignore newlines until "show_excerpts:"
-  
-url: https://aliciapj.github.io/talks
+description: Sitio web de Alicia Pérez
+url: https://aliciapj.github.io
 baseurl: ''
 
 show_excerpts: false # set to true to show excerpts on the homepage
