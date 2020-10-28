@@ -1,0 +1,32 @@
+title: Alicia Pérez - Portfolio
+author:
+  name: by Alicia Pérez
+  # email: your-email@domain.com
+description: > # this means to ignore newlines until "show_excerpts:"
+  Welcome to my portfolio, where you will find my work, talks and interests. I
+  hope you enjoy it :)
+url: https://aliciapj.github.io
+baseurl: ''
+
+show_excerpts: false # set to true to show excerpts on the homepage
+google_analytics: UA-180962091-1
+
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%-d %b, %Y"
+
+  # generate social links in footer
+  social_links:
+    twitter: alipeji
+    github:  aliciapj
+    linkedin: aliciapj
+    telegram: aliciapj
+
+# Build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
