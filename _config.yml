@@ -1,10 +1,9 @@
-title: Alicia Pérez - Portfolio
+title: Porfolio
 author:
   name: by Alicia Pérez
   # email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Welcome to my portfolio, where you will find my work, talks and interests. I
-  hope you enjoy it :)
+  
 url: https://aliciapj.github.io
 baseurl: ''
 
