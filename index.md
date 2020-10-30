@@ -2,9 +2,14 @@
 layout: home
 ---
 
-A continuación encontrarás un listado con las charlas en eventos que he 
-impartido como ponente en distintos eventos tecnológicos. 
+¡Hola!
 
-Soy Alicia, Ingeniera Informática por la Universidad Complutense de Madrid, 
-Data Scientist en StyleSage y co-organizadora de PyLadies Madrid.
+Me llamo Alicia Pérez y soy Data Scientist en StyleSage y co-organizadora del grupo PyLadies Madrid.
 
+En esta web encontrarás mi [Curriculum Vitae](/cv), algunas de mis [charlas](/talks) en eventos y otras cosas que me resultan de interés.
+
+Puedes contactar conmigo usando cualquiera de los botones del pie de esta web.
+
+¡Bienvenida!
+
+---------------------------------------
