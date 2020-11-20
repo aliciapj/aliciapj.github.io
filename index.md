@@ -14,6 +14,5 @@ Puedes contactar conmigo usando cualquiera de los botones al pie de esta web.
 
 ---------------------------------------
 
-
-Aquí os dejo un tablero de notion con algunos de mis artistas favoritos de instagram<br>
-> [Tablero de artistas en instagram](https://www.notion.so/aliciapj/Arte-594a226d17aa49809c200885af2ef4a9)
+Me encanta hacer tableros de cosas, así que aquí os dejo algunos de mis favoritos:
+- [Tablero de mis artistas favoritos en instagram](https://www.notion.so/aliciapj/Arte-594a226d17aa49809c200885af2ef4a9)
