@@ -6,9 +6,9 @@ layout: home
 
 Me llamo Alicia Pérez y soy Data Scientist en StyleSage y co-organizadora del grupo PyLadies Madrid.
 
-En esta web encontrarás mi [Curriculum Vitae](/cv), algunas de mis [charlas](/talks) en eventos y otras cosas que me resultan de interés.
+Aquí encontrarás mi [Curriculum Vitae](/cv), algunas de mis [charlas](/talks) en eventos y otras cosas que me resultan de interés.
 
-Puedes contactar conmigo usando cualquiera de los botones del pie de esta web.
+Puedes contactar conmigo usando cualquiera de los botones al pie de esta web.
 
 ¡Bienvenida!
 
