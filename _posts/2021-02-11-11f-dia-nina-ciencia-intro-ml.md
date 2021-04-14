@@ -6,7 +6,7 @@ categories: talks
 tags: ['machine learning','ai','ml','11f']
 ---
 
-Charla de introducción al Machine Learning para los alumnos de 3 de la ESO del colegio Nazaret Oporto en el marco del día de la mujer y la niña en la ciencia. Más info en https://11defebrero.org/
+Charla de introducción al Machine Learning para los alumnos de 3 de la ESO del colegio Nazaret Oporto en el marco del día de la mujer y la niña en la ciencia. Más info en [https://11defebrero.org/](https://11defebrero.org/)
 
 #### Slides
 
