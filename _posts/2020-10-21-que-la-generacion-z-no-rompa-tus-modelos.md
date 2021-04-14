@@ -6,7 +6,28 @@ categories: talks
 tags: ['python','ai','xai','fairness']
 ---
 
-En el mundo de la moda los roles de género siempre han estado bastante claros, como que " las faldas son prendas de chicas " y "las corbatas son para los hombres" . Ésto, entre otros clichés, han condicionado los algoritmos de etiquetado y clasificación de productos de moda, introduciendo sesgos que ahora pueden jugar en nuestra contra a la hora de predecir tendencias y tomar decisiones estratégicas. En esta charla veremos en qué consisten los sesgos en los modelos de machine learning, algunos métodos en Python para intentar evitarlos y algunas herramientas que auditan dichos modelos en este sentido.
+El mundo de la moda siempre ha estado lleno de clichés de género, como que "el rosa es cosa de niñas y el azul, de niños". Y no sólo encontramos sesgos de género: en occidente la imagen de una boda suele incluir a una mujer de blanco y un hombre de traje oscuro, lo cual no refleja la realidad en otras culturas. Estos, entre otros clichés, han condicionado los algoritmos de etiquetado y clasificación de productos de moda, introduciendo sesgos que ahora pueden jugar en nuestra contra a la hora de predecir tendencias, sobre todo con la llegada de la famosa "generación Z". En esta charla veremos qué es la explicabilidad de algoritmos, en qué consisten los sesgos en los modelos de machine learning y métodos para intentar evitarlos.
+
+
+### @T3chDays - T3chFest
+
+Los T3chDays son eventos online con las charlas que no pudieron celebrarse en T3chFest 2020 por la COVID-19. 
+
+#### Video
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+ <iframe src="//www.youtube.com/embed/pDNsC6MhM3A" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen="" title="YouTube Video"></iframe>
+</div>
+
+#### Slides
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;"><iframe src="https://speakerdeck.com/player/fdd3dea44cab487cb84c0dad632c6e0f" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
+
+
+#### Más info
+
+- [Web del evento](https://t3chfest.es/days/3/)
+- [Repo en GitHub](https://github.com/aliciapj/xai-genz)
 
 
 ### @PyData Salamanca
